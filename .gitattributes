@@ -1,0 +1,4 @@
+*.h5 filter=lfs diff=lfs merge=lfs -text
+div2k_2.h5 filter=lfs diff=lfs merge=lfs -text
+div2k_3.h5 filter=lfs diff=lfs merge=lfs -text
+div2k_4.h5 filter=lfs diff=lfs merge=lfs -text
